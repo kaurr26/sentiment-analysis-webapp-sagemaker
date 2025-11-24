@@ -23,11 +23,3 @@ Lastly, the method we will use to execute the Lambda function is a new endpoint 
 ![alt text](negative.gif)
 
 ---
-### About the Maintainer
-
-This project is currently maintained by **Sathvika Kalapala**.
-
-Sathvika is a Data Analyst with over 3 years of experience, specializing in transforming complex data into actionable insights and building robust data pipelines. With a strong background in Python and cloud platforms like AWS, Sathvika ensures the continued functionality and improvement of this sentiment analysis web-app.
-
-*   **Email:** sathvika.kalapala1211@gmail.com
-*   **LinkedIn:** [Sathvika Kalapala](https://www.linkedin.com/in/sathvika-kalapala-700a7712a)
